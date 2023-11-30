@@ -15,3 +15,11 @@
   <img align="center" alt="manoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br/>
+
+<p align="left">
+  Sinta-se a vontade para entrar em contato: 
+</p>
+
+<a href="https://www.linkedin.com/in/manoel-felipe-teixeira-neto-84194b231/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
