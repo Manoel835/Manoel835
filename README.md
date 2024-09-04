@@ -24,5 +24,5 @@
   Sinta-se a vontade para entrar em contato: 
 </p>
 
-<a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/" title="LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/manoel-felipe-84194b231/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
